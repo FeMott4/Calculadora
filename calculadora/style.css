@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    display: flex;
+    justify-content: center;  
+    background-color: black;
+}
+.resultado input{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 45vh;
+    height: 20vh;
+    font-size: 10vh;
+    border: 0;
+    text-align: end;
+
+    background-color: black;
+    color: white;
+}
+
+button{
+    margin-bottom: 1vh;
+    margin-left: 2vh;
+}
+.btn{
+    width: 10vh;
+    height: 10vh;
+    border-radius: 100%;
+    padding: 1vh 1vh 1vh 1vh;
+}
+
+.btn h1{
+    font-size: xx-large;
+    text-align: center;
+    align-items: center;
+}
